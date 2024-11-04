@@ -21,13 +21,11 @@ File: Ski_pass
 
 Simulates the operation of the built-in processor of the ski lift turnstile to check access by ski-pass.
 The turnstile controls the entry of skiers to the lift by ski-pass. Ski passes come in the following types:
-1. On weekdays:
+1. On weekdays:  
   a. Without taking into account the number of climbs: for half a day (from 9 to 13 or from 13 to 17), for a day, two days, 5 days.
-
   b. By the number of climbs: for 10 climbs, for 20 climbs, for 50 climbs, for 100 climbs.
-3. On weekends:
+3. On weekends:  
   a. Without taking into account the number of trips: for half a day (from 9 to 13 or from 13 to 17), for a day, two days.
-  
   b. By the number of climbs: for 10 climbs, for 20 climbs, for 50 climbs, for 100 climbs.
 4. Season ticket.
 
