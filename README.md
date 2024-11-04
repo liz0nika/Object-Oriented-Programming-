@@ -28,6 +28,7 @@ The turnstile controls the entry of skiers to the lift by ski-pass. Ski passes c
    * Without taking into account the number of trips: for half a day (from 9 to 13 or from 13 to 17), for a day, two days.
    * By the number of climbs: for 10 climbs, for 20 climbs, for 50 climbs, for 100 climbs.
 3. Season ticket.
+
 The turnstile must be connected to a system that keeps a register of issued cards. In this system, it is possible to:
   1. issue a ski pass;
   2. block a ski pass due to violation of the lift rules.
