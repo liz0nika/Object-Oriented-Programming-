@@ -1,6 +1,6 @@
 **Description**
 
-*File: Main*
+*File: src/main/java/org/example/Main.java*
 
 Write a console application using the architectural pattern
 MVC that:
@@ -17,7 +17,7 @@ MVC that:
 Values ​​for initializing objects are selected from pre-prepared data (selected randomly or in order of passing).
 
 
-*File: Ski_pass*
+*File: src/main/java/org/example/Ski_pass.java*
 
 Simulates the operation of the built-in processor of the ski lift turnstile to check access by ski-pass.
 The turnstile controls the entry of skiers to the lift by ski-pass. Ski passes come in the following types:
