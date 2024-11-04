@@ -1,6 +1,7 @@
 **Description**
 
 File: Main
+
 Write a console application using the architectural pattern
 MVC that:
 * describes the Drawable interface with the draw() method for drawing a shape
@@ -17,6 +18,7 @@ Values ​​for initializing objects are selected from pre-prepared data (selec
 
 
 File: Ski_pass
+
 Simulates the operation of the built-in processor of the ski lift turnstile to check access by ski-pass.
 The turnstile controls the entry of skiers to the lift by ski-pass. Ski passes come in the following types:
 1. On weekdays:
